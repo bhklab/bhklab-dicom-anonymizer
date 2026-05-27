@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier
+_commit: 0.14.2
+_src_path: gh:bhklab/bhklab-project-template
+author_email: bhklab.katyscott@gmail.com
+author_full_name: Katy Scott
+github_username: katy-scott
+has_additional_authors: false
+project_description: BHKLab DICOM Anonymizer is code to run on DICOM data that needs
+    to be anonymized so we can analyze it.
+project_name: BHKLab DICOM Anonymizer
+project_slug: bhklab-dicom-anonymizer
+publish_to_github: true
+python_version: '3.13'
+repo_location: bhklab
